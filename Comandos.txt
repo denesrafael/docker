@@ -1,0 +1,14 @@
+todos estes são executados ao digitar 
+docker container run imagem comando
+
+docker image pull			download da imagem
+docker container create			cria container
+docker container start			inicia o container
+docker container exec			executa o comando
+
+docker container ps			exibe containers ativos no momento
+docker container ps -a			exibe todos containers que já foram executados
+
+docker container run --rm conainter	automaticamente remove um container após a execução
+
+
