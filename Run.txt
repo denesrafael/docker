@@ -1,0 +1,8 @@
+Run sempre cria um novo container
+
+acessar em modo interativo e abrir o terminal do container (i - interativo, t - terminal)
+docker container run -it debian bash
+
+cria um arquivo txt
+touch curso_docker.txe
+
